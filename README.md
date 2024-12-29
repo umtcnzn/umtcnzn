@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm [umtcnzn](https://github.com/umtcnzn) 👋
 
-<!--
-**umtcnzn/umtcnzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys creating innovative solutions and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Deep Learning, LLM's, Full-Stack Development**
+- 💬 Ask me about **Full-Stack Development**
+- 📫 How to reach me: [umtcn.znbk@gmail.com](mailto:umtcn.znbk@gmail.com)
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: **I enjoy talking about philosophy.**
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, Python, C#, TypeScript
+- **Frameworks:** React, Flask, Express.js, Next.js, Keras, TensorFlow
+- **Tools:** Git, Notion
+
+## 📈 GitHub Stats
+
+![umtcnzn's GitHub stats](https://github-readme-stats.vercel.app/api?username=umtcnzn&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/umitcanzanbak)
+- [Twitter](https://x.com/umtcnzn)
+
+<!-- Optional: Add a footer or any additional information -->
