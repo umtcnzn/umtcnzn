@@ -39,7 +39,7 @@ Full-stack developer based in Türkiye. Graduated about a year ago, currently wo
 
 ### Side Projects
 - **[usefulgears.com](https://usefulgears.com)** — affiliate marketing project, currently live
-- **backloggr.com** — backlog tracker, in early development
+- **[backloggr-umtcnzn.netlify.app](https://backloggr-umtcnzn.netlify.app)** — backlog tracker, in early development
 
 ---
 
